@@ -1,0 +1,75 @@
+h1{
+    color: blanchedalmond;
+    -webkit-text-stroke: 1px black;
+    font-size: 400%;
+    text-align: center;
+}
+.contenedor{
+    border: 1px solid black;
+    height: 800px;
+    width: 80%;
+    margin-left: 5%;
+    overflow: hidden;
+    margin-top: 5px;
+    position: relative;
+    background-image:url("./imagenes/2019-10-06-81-1-1024x576.png") ;
+    background-size: 100%;
+}
+ table{
+     margin: auto;
+     border: 1px white;
+ }
+table tr td {
+    width: 200px;
+    height: 200px;
+    border: 1px solid rgb(247, 250, 247);
+    margin-top: 5px
+
+}
+
+
+
+
+#gridContainer{
+    padding-bottom: #453245;
+    border-spacing: 0px;
+}
+
+table{
+    background-image: url('./imagenes/juego.jpg');
+    background-size: 100%;
+    border-spacing: 0px;
+}
+
+td{
+    border: 20px black;
+    width: 20px;
+    height: 20px;
+}
+
+td.p1{
+    background-image: url("/imagenes/el-primo-dance.gif");
+}
+td.p2{
+    background-image: url("./imagenes/pedro-pascal-crying.gif");
+}
+
+td.vacio{
+    background-color: transparent;
+}
+
+.boton {
+
+    text-decoration: none;    
+    font-weight: 600;
+    padding: 10px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+}
+.boton:hover {
+    
+    color: #1883ba; background-color: #ffffff;
+}
