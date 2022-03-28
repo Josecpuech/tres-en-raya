@@ -49,10 +49,11 @@ td{
 
 td.p1{
     background-image: url("/imagenes/el-primo-dance.gif");
+    background-size: 80%
 }
 td.p2{
     background-image: url("./imagenes/pedro-pascal-crying.gif");
-}
+}   background-size: 80%
 
 td.vacio{
     background-color: transparent;
