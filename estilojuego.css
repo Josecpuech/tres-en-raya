@@ -38,7 +38,7 @@ table tr td {
 table{
     background-image: url('./imagenes/juego.jpg');
     background-size: 100%;
-    border-spacing: 0px;
+    border-spacing: 100px;
 }
 
 td{
